@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/activity_day.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/activity_event.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/activity_main.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/activity_manage_event_types.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/activity_select_time_zone.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/activity_settings.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/all_day_events_holder_line.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/calendar_item_account.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/calendar_item_calendar.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/date_picker.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/day_monthly_event_view.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/day_monthly_number_view.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/dialog_custom_event_repeat_interval.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/dialog_delete_event.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/dialog_edit_repeating_event.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/dialog_event_type.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/dialog_export_events.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/dialog_filter_event_types.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/dialog_import_events.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/dialog_repeat_limit_type_picker.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/dialog_select_calendars.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/dialog_select_event_type_color.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/dialog_select_radio_group.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/dialog_set_reminders.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/dialog_vertical_linear_layout.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/event_list_item.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/event_list_item_widget.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/event_list_section_day.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/event_list_section_day_widget.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/event_list_section_month.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/event_list_section_month_widget.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/filter_event_type_view.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/first_row.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/first_row_widget.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/fragment_day.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/fragment_days_holder.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/fragment_event_list.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/fragment_month.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/fragment_month_widget.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/fragment_month_widget_config.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/fragment_months_days_holder.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/fragment_months_holder.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/fragment_week.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/fragment_year.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/fragment_years_holder.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/item_attendee.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/item_autocomplete_email.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/item_autocomplete_email_name.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/item_event_type.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/item_select_time_zone.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/month_view.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/month_view_background.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/my_checkbox.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/quick_filter_event_type_view.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/top_navigation.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/week_all_day_event_marker.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/week_event_marker.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/week_now_marker.xml" value="0.11956521739130435" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/weekly_view_day_letter.xml" value="0.11956521739130435" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/weekly_view_hour_textview.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/widget_config_date.xml" value="0.11956521739130435" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/widget_config_list.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/widget_config_monthly.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/widget_date.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/M.A. Gilles DAHOUE/AndroidStudioProjects/Application9/app/src/main/res/layout/widget_event_list.xml" value="0.11956521739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
